@@ -14,6 +14,8 @@
 
 #### run project
 ````php artisan serve````
+##### or
+````php artisan serve --host=<your_ip> --port=<unused_port>````
 </details>
 
 <details>
